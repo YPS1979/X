@@ -1,0 +1,20 @@
+{
+    "atomType": "Molecule",
+    "name": "X",
+    "x": 0,
+    "y": 0,
+    "uniqueID": 432381,
+    "ioValues": [],
+    "topLevel": true,
+    "allAtoms": [
+        {
+            "atomType": "Output",
+            "name": "Output",
+            "x": 0.979591836734694,
+            "y": 0.5,
+            "ioValues": []
+        }
+    ],
+    "allConnectors": [],
+    "fileTypeVersion": 1
+}
